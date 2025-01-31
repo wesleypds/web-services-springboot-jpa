@@ -1,10 +1,10 @@
-package com.wesley.projetospring;
+package com.wesley.cursojava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjetospringApplicationTests {
+class CursojavaApplicationTests {
 
 	@Test
 	void contextLoads() {
